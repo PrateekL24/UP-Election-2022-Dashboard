@@ -2,7 +2,7 @@
 Description:
 In this project, we aim to provide a comprehensive analysis and visualization of election data using various data processing and visualization tools. The project encompasses the following key steps:
 
-Data Scraping:
+## Data Scraping:
 
 We perform web scraping to acquire the latest election data, ensuring that the information is up-to-date and accurate. The scraped data includes crucial details about candidates, constituencies, and election results.
 Data Preprocessing:
